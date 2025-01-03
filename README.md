@@ -1,2 +1,2 @@
-# mintiwab-portfolio
-mintiwab-portfolio
+# Mintiwab-portfolio
+Personal Portfolio
